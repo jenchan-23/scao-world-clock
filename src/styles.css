@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 500px;
   margin: 50px auto;
   padding: 30px;
 
@@ -28,13 +28,13 @@ select {
 }
 .time {
   margin: 15px 0;
-  font-size: 28px;
+  font-size: 22px;
   font-weight: 900;
   line-height: 36px;
   vertical-align: middle;
 }
 .date {
-  font-size: 16px;
+  font-size: 12px;
   opacity: 0.5;
   margin-bottom: 15px;
 }
@@ -43,12 +43,12 @@ select {
 }
 h1 {
   text-align: center;
-  font-size: 36px;
+  font-size: 32px;
 }
 
 h2 {
   margin: 5px auto;
-  font-size: 32px;
+  font-size: 30px;
   opacity: 0.8;
 }
 footer {
