@@ -54,8 +54,8 @@ function updateSelectCity(events) {
 <div class="date">${cityTime.format("Do MMMM, YYYY")}</div>
 </div>
 <div class="time">${cityTime.format("hh:mm:ss [<small>]A[</small>]")}</div>
-</div>`;
-  <a href="/">Back to all cities</a>;
+</div>
+<a href="/">Back to all cities</a>`;
 }
 
 setInterval(updateTime, 1000);
